@@ -38,7 +38,7 @@ import ccxt
 import time
 
 # Update this value according to Binance policy
-EXCHANGE_FEE = 0.001 
+EXCHANGE_FEE = 0.00075 
 
 # EG: for the touple: BNB/ETH -> ETH/USD -> USD/BNB then for TRADE_INVEST_UNITS = 1, 1 Bitcoin will be traded via this 3 pairs.
 # How many units of the first touple currency are traded on each oportunity.
